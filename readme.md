@@ -1,5 +1,5 @@
-# Responsive Personal Portfolio - Dev Chapter
- - Real contact form connected to Telegram
+# Responsive Personal Portfolio - Diptadip Saha
+ 
  - Dark and light version
  - Load content on scroll,
  - Only with HTML CSS & JavaScript
@@ -8,12 +8,6 @@
 
 ![](screenshot.jpg)
 
-
-### 🚀 Youtube video
-https://youtu.be/diIbwA-BAgo
-
-### 🔥 Demo
-https://portfolio-dev-chapter.vercel.app/
 
 ### 📁 Assets
 <hr>
